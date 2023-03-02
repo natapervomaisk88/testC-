@@ -95,7 +95,7 @@ int main()
 	quickSort(arr, N-1);
 	showArray(arr, N);
 	
-	// Крч, сталкер, я оставил тут текст и болше говорить не буду
+	// Крч,
 	//helloooo from Mira
 
 
