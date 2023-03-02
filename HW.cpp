@@ -31,14 +31,14 @@ int getCountEven(int* arr, int size)
 	return count;
 }
 
-int* deleteValues(int* arr, int size, bool choice) //1 -парные удаляем, 0 - непарные удаляем
+int* deleteValues(int* arr, int size, bool choice) 
 {
 	int n;
 	if (choice == true)
 	{
-		n = size - getCountEven(arr, size); //непарные
+		n = size - getCountEven(arr, size); 
 	}
-	else //удалить непарные значения
+	else 
 	{
 		n = getCountEven(arr, size);
 	}
