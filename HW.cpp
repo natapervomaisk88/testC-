@@ -96,7 +96,7 @@ int main()
 	showArray(arr, N);
 	
 	// Крч, сталкер, я оставил тут текст и болше говорить не буду
-	
+	//helloooo from Mira
 
 
 	return 0;
