@@ -95,7 +95,7 @@ int main()
 	quickSort(arr, N-1);
 	showArray(arr, N);
 	
-	cout << "Hello. There was Nazar)";
+	// Крч, сталкер, я оставил тут текст и болше говорить не буду
 	
 
 
