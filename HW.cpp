@@ -96,7 +96,7 @@ int main()
 	showArray(arr, N);
 	
 	// Крч,
-	//helloooo from Mira
+	//******************
 
 
 	return 0;
