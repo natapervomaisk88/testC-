@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Home work
+//Nazar )
 
 void showArray(int* arr, int size)
 {
