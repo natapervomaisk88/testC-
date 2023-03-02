@@ -95,6 +95,8 @@ int main()
 	quickSort(arr, N-1);
 	showArray(arr, N);
 	
+	cout << "Hello. There was Nazar)";
+	
 
 
 	return 0;
