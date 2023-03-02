@@ -95,8 +95,6 @@ int main()
 	quickSort(arr, N-1);
 	showArray(arr, N);
 	
-	// Крч,
-	//helloooo from Mira
 
 
 	return 0;
